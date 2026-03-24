@@ -1,5 +1,9 @@
 # code
-## todo
+## library-manager
+```
+from lib import manager
+manager.secure(^extensions - lst^)
+```
 
 # tools
 ## library-manager
