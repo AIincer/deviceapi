@@ -1,11 +1,12 @@
-# bios
+# lokal
+## bios
 - ./assets/bios.json
 - Inhalt:
 ```
 - "name"      - str   - der name des ordners für das speichern von inhalten für die App
 - "test-mode" - bol:1 - ob die app im entwiklungsmodus ist
 ```
-# app-übersicht
+## app-übersicht
 - /db/apps.json
 - Inhalt:
 ```
@@ -19,3 +20,5 @@
     - 1    - str   - der Name der Datei
   - "code" - str   - position des Codes
 ```
+
+# online
