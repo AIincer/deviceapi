@@ -22,3 +22,16 @@
 ```
 
 # online
+## apps
+- ~web/db/apps.json
+- Inhalt:
+```
+- <name>             - jso  - Übersicht über ein Programm (<name>)
+  - "card"           - jso  - die Karte der app
+    - "title"        - str  - der anzeige-name der app
+    - "sub-title"    - str  - die beschreibung der app
+    - "icon"         - jso  - das icon der app
+      - "text"       - str  - die Buchstaben auf dem logo
+      - "bg-color"   - str+ - (+: hex) Hintergrungfarbe
+      - "txt-clolor" - str+ - (+: hex) Schriftfarbe
+```
