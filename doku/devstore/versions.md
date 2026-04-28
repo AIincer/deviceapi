@@ -1,11 +1,11 @@
 # 0.1
 ### Funktionen
-- ~~einstellungen:~~
-  - ~~developer-mode:~~
-    - ~~konsolen-app~~
+- einstellungen:
+  - developer-mode:
+    - konsolen-app
 - install:
   - installieren von apps
 ### vorinstalliert
-- ~~Einstellungen~~
+- Einstellungen
 - Store
-- ~~(Konsole)~~
+- (Konsole)
