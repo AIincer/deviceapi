@@ -32,7 +32,12 @@ test: connect -> kein paswort
 nano ~/.ssh/config
 ```
 presets eingeben
-# starten
+# nutzen
+starten
 ```
 ssh <benutzername>@<ip>
+```
+stoppen
+```
+exit
 ```
