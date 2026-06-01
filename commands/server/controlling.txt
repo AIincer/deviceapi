@@ -1,4 +1,10 @@
-- ssh <server>
-  - mit ssh-server verbinden
-- exit
-  - von ssh-server trennen
+- lokal
+  - ssh <server>
+    - mit ssh-server verbinden
+  - exit
+    - von ssh-server trennen
+- ssh
+  - ls
+  - cd <to>
+  - open <file>
+    - nur mit XQuartz
