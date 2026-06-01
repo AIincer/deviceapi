@@ -27,6 +27,11 @@ key einrichten
 ssh-copy-id <benutzername>@<ip>
 ```
 test: connect -> kein paswort
+# Presets einrichten
+```
+nano ~/.ssh/config
+```
+presets eingeben
 # starten
 ```
 ssh <benutzername>@<ip>
