@@ -1,0 +1,4 @@
+- ssh <server>
+  - mit ssh-server verbinden
+- exit
+  - von ssh-server trennen
