@@ -14,6 +14,19 @@ name
 whoami
 hostname -I
 ```
+# Key einrichten
+user:
+```
+ssh-keygen
+```
+- select file -> ""
+- Passphrase  -> ""
+über ssh verbinden
+key einrichten
+```
+ssh-copy-id <benutzername>@<ip>
+```
+test: connect -> kein paswort
 # starten
 ```
 ssh <benutzername>@<ip>
