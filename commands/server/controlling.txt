@@ -1,8 +1,9 @@
 - lokal
   - ssh <server>
-    - mit ssh-server verbinden
   - exit
-    - von ssh-server trennen
+  - scp <server>:~<path+file> .
+    - datei auf lokal kopieren
+    - path mit cd festlegen
 - ssh
   - ls
   - cd <to>
