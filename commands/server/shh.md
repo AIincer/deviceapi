@@ -9,8 +9,9 @@ test
 ```
 sudo systemctl status ssh
 ```
-ip?
+name
 ```
+whoami
 hostname -I
 ```
 # starten
